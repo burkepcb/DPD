@@ -3,7 +3,7 @@ var CACHE_VERSION = 'v1';
 var CACHE_NAME = CACHE_TITLE + '-' + CACHE_VERSION;
 var urlsToCache = [
   '/DPD/',
-  '/DPD/css/main.css',
+  '/DPD/css/style.css',
   '/DPD/js/main.js'
 ];
 
