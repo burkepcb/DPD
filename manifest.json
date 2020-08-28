@@ -3,7 +3,7 @@
     "short_name": "CDU Scheduler",
     "icons": [
         {
-            "src": "image/icons/icon_100.png",
+            "src": "image/icons/vet_100.png",
             "sizes": "512x512",
             "type": "image/png"
         },
