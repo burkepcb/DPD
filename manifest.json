@@ -1,0 +1,20 @@
+{
+    "name": "CDU Assignment Scheduler",
+    "short_name": "CDU Scheduler",
+    "icons": [
+        {
+            "src": "image/icons/icon_100.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "image/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#123557"
+}
