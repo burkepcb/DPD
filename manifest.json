@@ -4,7 +4,7 @@
     "icons": [
         {
             "src": "image/icons/vet_100.png",
-            "sizes": "512x512",
+            "sizes": "100x100",
             "type": "image/png"
         },
         {
